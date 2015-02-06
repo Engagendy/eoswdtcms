@@ -1,0 +1,11 @@
+<?php 
+	/**
+	* database
+	*/
+	class DB
+	{
+		
+
+	}
+
+ ?>
